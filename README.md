@@ -2,7 +2,7 @@
 
 Hey there! 👋
 
-I'm independent developer working mostly on tools for other developers 🧰  
+I'm independent developer working mostly on tools for other developers and creators 🧰  
 https://codestage.net
 
 ### 💌 Me supporting you
