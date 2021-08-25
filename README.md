@@ -1,16 +1,15 @@
-### Hi there 👋
+### About
 
-<!--
-**DmitriyYukhanov/DmitriyYukhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! 👋
 
-Here are some ideas to get you started:
+I'm independent developer working mostly on tools for other developers: https://codestage.net
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Me supporting you
+
+Have a question / Unity Asset Store plugin support request / any other inquiry?  
+💌 Let's get in touch at https://codestage/contacts and https://discord.gg/Ppsb89naWf (or PM codestage#0001)
+
+### You supporting me
+
+Like what I do and wish to see more from me?  
+☕ https://ko-fi.com/codestage
