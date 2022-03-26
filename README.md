@@ -16,6 +16,6 @@ Having a question / Unity Asset Store plugin support request / any other inquiry
 ### 💖 You supporting me
 
 Like what I do and wish to see more from me?  
-- ETH Polygon: 0x93e3f4D186cE536aF50dbE4D6Cf839FC27281c8a  
+- ETH / MATIC: 0x93e3f4D186cE536aF50dbE4D6Cf839FC27281c8a  
 - <img src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg" width="16" height="16"> [patreon.com/codestage_net](https://www.patreon.com/codestage_net)  
 - <img src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/ko_fi.svg" width="16" height="16"> [ko-fi.com/codestage](https://ko-fi.com/codestage)  
